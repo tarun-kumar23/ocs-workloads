@@ -1,0 +1,5 @@
+resources:
+- fileb.yaml
+
+commonLabels:
+  app-name: app-fb-cephfs-1
